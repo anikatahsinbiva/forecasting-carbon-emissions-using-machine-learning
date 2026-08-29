@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project investigates the application of modern **machine learning (ML) and deep learning (DL) models** to forecast **carbon dioxide (CO₂) emissions** across 93 countries.
+This project applies machine learning (ML) and deep learning (DL) models to forecast carbon dioxide (CO₂) emissions across 93 countries.
 
 Historical CO₂ emissions data from **1970 to 2023** are used to develop and evaluate the forecasting models. The models are trained using data from **1970–2015** and evaluated using data from **2016–2023**. Finally, CO₂ emissions are forecast up to **2030**.
 
@@ -54,23 +54,7 @@ Future Forecasting
 Forecasts: 2024–2030
 ```
 
-## Models
 
-### ANN
-
-Artificial Neural Network is used to learn nonlinear patterns in historical CO₂ emissions.
-
-### DNN
-
-Deep Neural Network is used to capture more complex nonlinear relationships using multiple hidden layers.
-
-### CNN
-
-Convolutional Neural Network is applied to identify patterns in the emissions time series.
-
-### LSTM
-
-Long Short-Term Memory is used to capture temporal dependencies and long-term patterns in the CO₂ emissions data.
 
 
 ### Files
