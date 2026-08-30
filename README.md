@@ -16,43 +16,9 @@ The project focuses on four models:
 * Convolutional Neural Network (CNN)
 * Long Short-Term Memory (LSTM)
 
-## Dataset
 
-The dataset was collected from the **World Bank**.
 
-* Number of countries: **93**
-* Historical data: **1970–2023**
-* Training period: **1970–2015**
-* Testing period: **2016–2023**
-* Forecasting period: **2024–2030**
 
-The dataset is provided in the repository as:
-
-```text
-co2new.xlsx
-```
-
-## Methodology
-
-The general workflow of the project is:
-
-```text
-CO₂ Emissions Data
-        ↓
-Data Preprocessing
-        ↓
-Training: 1970–2015
-        ↓
-ANN / DNN / CNN / LSTM
-        ↓
-Model Evaluation
-        ↓
-Testing: 2016–2023
-        ↓
-Future Forecasting
-        ↓
-Forecasts: 2024–2030
-```
 
 
 
